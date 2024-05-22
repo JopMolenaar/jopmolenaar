@@ -1,19 +1,18 @@
 # Hi 👋, I'm Jop
 
-I am ...
-
-
 - 📚 Communication & Multimedia Design at Amsterdam University of Applied Science
 
 - 🤝 I’m looking for an internship in the Netherlands **(Around Haarlem and Amsterdam)**
 
-- 👨‍💻 All of my projects are available at [jopmolenaar.com](https://jopmolenaar.com)
+- 👨‍💻 All my projects are available at [jopmolenaar.com](https://jopmolenaar.com)
 
 ### Connect with me:
 
-- 📫 **jopmolenaar@icloud.com** or <a href="https://linkedin.com/in/jop-molenaar-18718b259" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jop-molenaar-18718b259" height="30" width="40" />
-  </a>
+📫 **jopmolenaar@icloud.com** 
+
+<a href="https://linkedin.com/in/jop-molenaar-18718b259" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jop-molenaar-18718b259" width="20" />
+</a>
 
 ### Languages:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -24,12 +23,6 @@ I am ...
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
-  <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -42,6 +35,9 @@ I am ...
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
+  <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
 </a>
 
 ### Database:
@@ -73,4 +69,7 @@ I am ...
 </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
