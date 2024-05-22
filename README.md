@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()]()
 
 <h1 align="center"> Hi 👋, I'm Jop</h3>
 
