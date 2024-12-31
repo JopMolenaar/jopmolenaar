@@ -4,7 +4,7 @@
 
 - 📚 Communication & Multimedia Design at Amsterdam University of Applied Science
 
-- 🤝 I’m looking for an internship in the Netherlands **(Around Haarlem and Amsterdam)**
+<!-- - 🤝 I’m looking for an internship in the Netherlands **(Around Haarlem and Amsterdam)** -->
 
 - 👨‍💻 All my projects are available at [jopmolenaar.com](https://jopmolenaar.com)
 
