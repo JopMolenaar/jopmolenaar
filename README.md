@@ -4,8 +4,6 @@
 
 - 🎓 Graduated cum laude from Communication & Multimedia Design at Amsterdam University of Applied Science
 
-- 🤝 I’m looking for a full-time position where I can bring my energy and enthusiasm to building exciting websites with a great team. **(Ideally around Haarlem or Amsterdam)**
-
 - 👨‍💻 More details about my background, recent projects, and technical skills are available at [jopmolenaar.com](https://jopmolenaar.com)
 
 - 📫 Connect with me: **jopmolenaar@icloud.com** 
